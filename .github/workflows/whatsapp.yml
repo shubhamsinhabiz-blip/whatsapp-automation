@@ -36,4 +36,4 @@ jobs:
         SHEET_NAME: ${{ secrets.SHEET_NAME }} 
         SHEET_GID: ${{ secrets.SHEET_GID }} 
       run: | 
-        python app/app.py $SHEET_ID $SHEET_NAME $SHEET_GID 
+        python app/app.py $SHEET_ID $SHEET_NAME $SHEET_GID 266
