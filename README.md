@@ -53,3 +53,4 @@ Note: The script may not work in case if the HTML of web WhatsApp is changed.
 
 ### Inspiration
 This script is inspired from @inforkgodara [repo](https://github.com/inforkgodara/python-automated-bulk-whatsapp-messages) and updated to read a Google sheet and send to any whatsapp number.
+ 
